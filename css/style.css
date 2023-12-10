@@ -432,12 +432,7 @@ a:hover {
   font-size: 22px
 }
 
-form {
-  padding: 20px;
-  background: #fff;
-  max-width: 300px;
-  border: 1px solid #c5c5c5
-}
+
 
 .form__caption {
   font-weight: 700;
@@ -462,22 +457,9 @@ form {
   margin-bottom: 5px
 }
 
-select, input {
-  height: 50px;
-  background: #f2f2f2;
-  border: 1px solid #ddd;
-  color: #838383;
-  border-radius: 3px;
-  font-size: 17px;
-  font-family: roboto, sans-serif;
-  padding: 10px;
-  width: 100%;
-  margin-bottom: 15px
-}
 
-input[type=tel] {
-  margin-bottom: 30px
-}
+
+
 
 select::-ms-expand {
   display: none
@@ -743,23 +725,7 @@ select {
   width: 49%
 }
 
-.price_new {
-  padding: 0 10px;
-  text-align: center;
-  font-weight: 700;
-  line-height: 30px;
-  font-size: 21px;
-  color: red
-}
 
-.price_old {
-  padding: 0 10px;
-  text-align: center;
-  font-weight: 700;
-  text-decoration: line-through;
-  line-height: 30px;
-  font-size: 18px
-}
 
 .footer {
   text-align: center;
